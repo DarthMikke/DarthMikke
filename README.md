@@ -54,7 +54,7 @@ https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-p
 
 # Utvalte prosjekt
 
-*Dette er berre eit utval, sjå [GitHub-profilen min](https://www.github.com/DarthMikke) for fleire prosjekt.*
+*Dette er berre eit utval, sjå [GitHub-profilen min](https://github.com/DarthMikke?tab=repositories) for fleire prosjekt.*
 
 **Remember** – Handter gjentakande oppgåver. Open tilgang på [www.millim.no](https://www.millim.no).
 
